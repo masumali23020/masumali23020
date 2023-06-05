@@ -28,14 +28,4 @@ Skills: REDUX/ REACT / JS / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masumali23020)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masumali23020&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masumali23020)  
-
-![GitHub metrics](https://metrics.lecoq.io/masumali23020)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masumali23020)  
-
-![Profile views](https://gpvc.arturio.dev/masumali23020)  
